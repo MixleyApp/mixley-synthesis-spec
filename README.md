@@ -4,7 +4,7 @@ The specification for the Synthesis Data network protocol.
 
 ## Status
 
-**Specification - not yet deployed.** The Synthesis Data network is "coming soon" per the Mixley roadmap. This repository publishes the protocol specification so contributors can see what is being built and prepare nodes ahead of deployment. Nothing here is deployed.
+**Specification - closed alpha.** The network runs in a closed alpha: operators can onboard nodes from the product while emission knobs and inference payouts are still calibrated. This repository tracks the protocol contributors implement in [mixley-node-worker](https://github.com/MixleyApp/mixley-node-worker) (private) and validate against the public docs.
 
 ## What the protocol is
 

@@ -2,6 +2,8 @@
 
 A node is rewarded for accepted work, not for registration. Eligibility follows accepted work, so the size of the allocation does not by itself determine what an individual operator receives.
 
+MIX payouts for verified node work settle on **Robinhood Chain** once emission is enabled. Until then, the dashboard may show accrued points without an on-chain transfer. Block 0 bootstrap and ongoing tax or buyback-funded rewards are product configuration, not constants in this document.
+
 ## Formula
 
 ```
